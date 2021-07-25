@@ -42,3 +42,13 @@
     color: #fff;
     font-size: 100px;
   }
+
+  @media screen and (max-width: 760px){
+    .services{
+      font-size: 95px;
+    }
+
+    .products{
+      font-size: 95px;
+    }
+  }
